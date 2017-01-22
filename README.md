@@ -1,1 +1,4 @@
 # puppetexplorer
+[![](https://images.microbadger.com/badges/version/jorgeandrada/puppetexplorer.svg)](https://microbadger.com/images/jorgeandrada/puppetexplorer "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/license/jorgeandrada/puppetexplorer.svg)](https://microbadger.com/images/jorgeandrada/puppetexplorer "Get your own license badge on microbadger.com") [![](https://images.microbadger.com/badges/image/jorgeandrada/puppetexplorer.svg)](https://microbadger.com/images/jorgeandrada/puppetexplorer "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/commit/jorgeandrada/puppetexplorer.svg)](https://microbadger.com/images/jorgeandrada/puppetexplorer "Get your own commit badge on microbadger.com")
+
+ **Puppetexplorer 2.0**
